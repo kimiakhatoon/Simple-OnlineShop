@@ -8,6 +8,7 @@ const Shop = () => {
         <a className="link-underline link-underline-opacity-25 " href="/">
           shop
         </a>
+        <h2>test</h2>
       </h2>
       <div className="d-flex justify-content-between flex-wrap gap-5 ">
         {PRODUCTS.map((ProductData) => (
