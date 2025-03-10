@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Simple-OnlineShop/static/css/main.a4fa69a2.css",
+    "main.js": "/Simple-OnlineShop/static/js/main.69662e22.js",
+    "static/media/tv-hyundai.jpg": "/Simple-OnlineShop/static/media/tv-hyundai.157ff940aa0974b2c85a.jpg",
+    "static/media/tv-samsung.jpg": "/Simple-OnlineShop/static/media/tv-samsung.59e9d87ffd5de5c69168.jpg",
+    "static/media/tv-hisense.jpg": "/Simple-OnlineShop/static/media/tv-hisense.b3744bbd411d71d35fc3.jpg",
+    "static/media/espresso-philips.jpg": "/Simple-OnlineShop/static/media/espresso-philips.fe6acc834ecf12b891fe.jpg",
+    "static/media/coffeeMaker-krups.jpg": "/Simple-OnlineShop/static/media/coffeeMaker-krups.8f27823d19fceb951f41.jpg",
+    "index.html": "/Simple-OnlineShop/index.html",
+    "main.a4fa69a2.css.map": "/Simple-OnlineShop/static/css/main.a4fa69a2.css.map",
+    "main.69662e22.js.map": "/Simple-OnlineShop/static/js/main.69662e22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4fa69a2.css",
+    "static/js/main.69662e22.js"
+  ]
+}
